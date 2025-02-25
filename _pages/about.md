@@ -46,7 +46,7 @@ redirect_from:
 
 - `Lin Wang`，Mengshan Ren. Health literacy: the immune defense to deal with information overload; an empirical study based on the COVID-19 infodemic. 2024年ICA(顶级国际会议) Health communication组现场宣读
 
-- `Wang Lin`. Book Review: Media, Sport, Nationalism: East Asia: Soft Power Projection via the Modern Olympic Games. Global Media and China(ESCI) .2021/07/09
+- `Lin Wang`. Book Review: Media, Sport, Nationalism: East Asia: Soft Power Projection via the Modern Olympic Games. Global Media and China(ESCI) .2021/07/09
 [[链接]](https://doi.org/10.1177/20594364211025399)
 
 ### 中文
