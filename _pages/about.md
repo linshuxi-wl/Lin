@@ -29,30 +29,37 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - 2026.16*,  中国传媒大学 媒体融合与传播国家重点实验室, 推免直博 
+- *2022.09 - 2026.16*,  中国传媒大学 媒体融合与传播国家重点实验室, 博士 
+- *2019.09 - 2022.06*,  中国传媒大学 传播研究院, 推免硕士
 - *2015.09 - 2019.06*,  中国传媒大学 国际传媒教育学院, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 论文发表
 
 ### 英文
 ---
+- Mengshan Ren, `Lin Wang`, Juan Chen & Jian Raymond Rui. How Digital Media Usage Predicts Chinese Children’s Intention to Consume Unhealthy Food: Mediated by Accessibility and Moderated by Digital Media Engagement. Health Communication(SSCI Q1). 2024/11/28
+[[链接]](https://doi.org/10.1080/10410236.2024.2433821)
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+- `Lin Wang`, Wu Jia Ying, Navoda Nirmani Liyana Pathirana, Florentine Martino, Ren Mengshan, Kathryn Backholer. Digital marketing by big bubble tea brands in China in 2023: A content analysis. Public Health Nutrition(SSCI Q2).
 
+- `Lin Wang`，Mengshan Ren. Health literacy: the immune defense to deal with information overload; an empirical study based on the COVID-19 infodemic. 2024年ICA(顶级国际会议) Health communication组现场宣读
 
-
-
-
+- `Wang Lin`. Book Review: Media, Sport, Nationalism: East Asia: Soft Power Projection via the Modern Olympic Games. Global Media and China(ESCI) .2021/07/09
+[[链接]](https://doi.org/10.1177/20594364211025399)
 
 ### 中文
 ---
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
+- 任孟山, `王琳`. 旅行书写与国际传播：信息来源可信度理论下社交媒体的中国呈现，中国出版（CSSCI期刊），2024（23）：38-43.
+- 师喆，顾洁，黄文昕，`王琳`，彭菲，陈俊旭.面向国际传播的智库知识库构建研究,情报杂志（CSSCI期刊），2024,43(03):173-181.
+- 任孟山, `王琳`. 新闻短视频的生产与秩序：从赋权到规约,中国编辑（CSSCI期刊），2023（11）：77-83
+- 任孟山, `王琳`. 人类卫生健康共同体背景下的中医药文化国际传播, 传媒（CSSCI扩展期刊）,2021(19):71-73.
+- 任孟山, `王琳`. 近代健康教育先锋报刊的传播内容、话语策略和传播特征——以《卫生白话报》为例，中国出版（CSSCI期刊）,2021(19):63-68.
+- `王琳`, 张如意. 广播里的健康之音--农村大喇叭的媒介学想象[A]. 北京大学新闻与传播学院.北京论坛·健康传播分论坛丨医疗、人文、媒介——“健康中国”与健康传播2020国际学术研讨会论文集.北京大学新闻与传播学院:北京大学新闻与传播学院,2020:6. 
+- *2020.12*参加清华大学组织的中国健康传播大会，论文《传播与流变：麝香媒介形象的变迁—兼论电视剧中的中医药文化传播》被评为第十五届中国健康传播大会十佳论文奖（独作）
+- 任孟山, `王琳`. 新闻传播学领域对“一带一路”倡议的研究——对2013-2019年新闻传播学CSSCI来源期刊的文献分析，传媒（CSSCI扩展期刊）,2020(06):37-39.
 
 
 <span class='anchor' id='-ryjx'></span>
