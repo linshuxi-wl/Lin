@@ -93,6 +93,14 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
+# 💼 学术活动
+
+- 中央广播电视总台内参舆情中心采纳两篇报告（`厅局级`）；求是杂志社内参部采纳一篇报告（`厅局级`）
+- 2024年山西大学继续教育学院`传播学专业代课教师`
+- 云南大学第二届（南亚东南亚）国际传播理论前沿与研究方法研究生暑期学校`优秀学员`
+
+<span class='anchor' id='-xshd'></span>
+
 # 🏅 荣誉奖项
 - 2019、2022年度`北京市优秀毕业生`(本科、硕士)
 - 2023、2018年度`北京市三好学生`（博士、本科在读期间获取该荣誉）
@@ -105,13 +113,11 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
-- 山西大学继续教育学院传播学专业代课教师
+# 💻 社会实践
 - [《大健康IP实战教程》](http://www.tup.tsinghua.edu.cn/booksCenter/book_10112901.html)编委
 - [《劳动实践：烹饪与营养》](https://book.douban.com/subject/35927690/)编委
 - 担任白杨班党支部书记期间荣获全国双百样本党支部、周恩来班荣誉称号 [[中传公众号报道]](https://mp.weixin.qq.com/s/2pCS_XGupt06XlXqlAgvEg) [[中传公众号报道]](https://mp.weixin.qq.com/s/RfctlVGVuctvZHjncG--xg)
 - 中国人生科学学会健康传播专业委员会理事长助理，负责学会日常事务、组织学术活动与会议 [[新京报报道]](https://m.bjnews.com.cn/detail/1659943233168981.html?shareuser=155928763912371)
-- 中央广播电视总台内参舆情中心撰写内参报告
 - 中国传媒大学媒体融合与传播白杨班暑期国情调研团学生负责人
 - 新京报评论部实习评论员 [[新京报评论]](https://mp.weixin.qq.com/s/DQiG8yufIqmSurwSyjezCQ)
 
